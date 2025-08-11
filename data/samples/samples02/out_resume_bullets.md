@@ -1,0 +1,4 @@
+- Led the development of SaaS analytics dashboard, increasing daily active users by 25%.
+- Implemented Agile workflows, improving sprint delivery rate by 18%.
+- Conducted customer interviews to prioritize features, leading to a 15% churn reduction.
+- Coordinated cross-functional teams to launch three major product features in under 6 months.

@@ -1,0 +1,4 @@
+- Managed Google Ads campaigns with a monthly budget of $50k, achieving 25% higher ROI.
+- Optimized Facebook Ads targeting, increasing engagement by 30%.
+- Conducted SEO audits that improved organic traffic by 18%.
+- Collaborated with design team to produce creatives that boosted CTR by 15%.

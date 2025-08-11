@@ -1,0 +1,4 @@
+- Led UX design for a fintech mobile app with 1M+ downloads, increasing retention by 20%.
+- Conducted 15+ usability tests, reducing task completion time by 25%.
+- Designed and maintained a mobile design system, speeding up development by 30%.
+- Collaborated with developers to ensure pixel-perfect implementation of designs.

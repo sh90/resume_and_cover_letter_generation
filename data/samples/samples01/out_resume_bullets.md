@@ -1,0 +1,4 @@
+- Built a customer segmentation model using Python, increasing campaign ROI by 15%.
+- Automated marketing spend analysis with SQL and Tableau, reducing reporting time by 40%.
+- Partnered with marketing teams to design predictive lead-scoring system, improving conversion rates by 12%.
+- Delivered monthly insights presentations to executives, enabling data-driven ad budget allocation.

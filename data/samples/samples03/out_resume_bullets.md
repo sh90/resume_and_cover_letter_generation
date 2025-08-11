@@ -1,0 +1,4 @@
+- Developed and deployed RESTful APIs using Django, supporting 50k+ daily requests.
+- Reduced database query times by 40% through indexing and query optimization.
+- Implemented automated testing pipelines, increasing code coverage by 30%.
+- Collaborated with frontend team to integrate new features, improving release speed by 20%.
