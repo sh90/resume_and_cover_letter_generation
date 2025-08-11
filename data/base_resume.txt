@@ -1,0 +1,47 @@
+Name: Taylor Morgan
+Location: Gurgaon, IN (Open to remote/hybrid)
+Email: taylor.morgan@example.com | Phone: +91-98XXXXXX00
+Links: github.com/taylor-morgan | linkedin.com/in/taylor-morgan
+
+Summary
+Data & product-oriented professional with 5+ years’ experience turning messy requirements into measurable outcomes.
+Strong in Python, SQL, and stakeholder communication; comfortable shipping features end-to-end and writing crisp,
+impact-focused narratives (resumes, cover letters, proposals).
+
+Core Skills
+- Python (pandas, numpy), SQL (PostgreSQL, BigQuery), APIs, ETL
+- Experimentation & analytics, dashboards (Tableau/Power BI)
+- Prompt design, LLM text generation, few-shot patterns
+- Product thinking, user interviews, agile delivery
+
+Experience
+Data Analyst • ABC Corp (2021–2024)
+- Built automated marketing performance reports in Python/SQL, reducing manual work by 40%.
+- Created a lead-scoring model that improved MQL→SQL conversion by 12%.
+- Shipped a weekly exec dashboard used by 6 teams to align on KPIs and decisions.
+- Trained 15+ users on self-serve analytics with clean documentation.
+
+Business Analyst • XYZ Tech (2019–2021)
+- Gathered requirements and translated them into user stories, increasing sprint throughput by 18%.
+- Performed pricing analyses that identified ₹12M annual savings opportunities.
+- Collaborated with engineering to scope API changes; reduced spec→release cycle time by 20%.
+
+Projects
+Job-tailored Resume & Cover Letter Generator (LLM)
+- Designed prompts and templates to align bullets with JD keywords and quantify impact.
+- Added simple evaluation (keyword coverage, metrics cues); improved average score by ~0.15.
+
+Customer Churn Exploration
+- Built cohort analysis and retention dashboards; identified three at-risk segments for targeted outreach.
+
+Education
+- B.Tech, Computer Science — Delhi University
+
+Highlights
+- Improved reporting efficiency by 40% via Python/SQL automation.
+- Increased MQL→SQL conversion by 12% with a lightweight scoring model.
+- Reduced analysis-to-release cycle by 20% through tighter PM–Eng collaboration.
+- Delivered exec dashboards used weekly by 6 cross-functional teams.
+
+Skills
+Python, SQL, APIs, ETL, pandas, numpy, Tableau, Power BI, A/B testing, LLM prompting, product analytics, stakeholder communication

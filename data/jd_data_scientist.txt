@@ -1,0 +1,16 @@
+Position: Data Scientist – Marketing Analytics
+Company: Acme Corp
+
+Responsibilities:
+- Develop predictive models to optimize marketing campaigns and ad spend efficiency.
+- Perform customer segmentation and cohort analysis to identify high-value audiences.
+- Collaborate with marketing and product teams to translate insights into actionable strategies.
+- Design and run A/B experiments to measure campaign effectiveness.
+- Present findings to senior stakeholders with clear visuals and narratives.
+
+Requirements:
+- Proficiency in Python, SQL, and a BI tool (Tableau/Power BI).
+- Experience with statistical modeling, machine learning, and predictive analytics.
+- Strong analytical skills and attention to detail.
+- Ability to communicate technical insights to non-technical audiences.
+- 3+ years of experience in data analytics or data science roles.

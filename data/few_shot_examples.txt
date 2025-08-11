@@ -1,0 +1,38 @@
+### Example 1 — Tailored Resume Bullets
+Job Description (excerpt):
+- Develop predictive models to optimize marketing campaigns.
+- Perform customer segmentation to identify high-value audiences.
+- Present insights to senior stakeholders.
+
+Base Resume Highlights:
+- Built dashboards and automated marketing reports in Python/SQL.
+- Conducted pricing analyses to optimize margins.
+
+Tailored Bullets Output:
+- Developed predictive churn model in Python, boosting retention by 14% in a key customer segment.
+- Automated campaign performance reports with SQL/Tableau, reducing reporting time by 40%.
+- Conducted segmentation analysis to identify high-value cohorts, enabling targeted campaigns with 20% higher ROI.
+- Presented insights to leadership, informing a ₹40L budget reallocation toward top channels.
+
+---
+
+### Example 2 — Tailored Cover Letter
+Job Description (excerpt):
+- Design and run A/B experiments.
+- Collaborate with marketing and product teams.
+- 3+ years experience in data analytics.
+
+Base Resume Highlights:
+- Built automated testing frameworks and ran marketing experiments.
+- Partnered cross-functionally on campaign optimization.
+
+Cover Letter Output:
+Dear Hiring Manager,
+
+I am excited to apply for the Data Scientist – Marketing Analytics role at Acme Corp. Your focus on evidence-based marketing decisions resonates with my passion for data-driven impact.
+
+At ABC Corp, I developed a campaign testing framework that enabled 30+ A/B experiments annually and improved ad ROI by 18%. Partnering with marketing and product teams, I translated insights into actionable strategies and shipped dashboards adopted by six teams. My proficiency in Python, SQL, and Tableau ensures I can deliver both technical depth and clear communication.
+
+Thank you for your consideration.
+Sincerely,
+Taylor Morgan
