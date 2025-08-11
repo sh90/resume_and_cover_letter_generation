@@ -18,11 +18,11 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 4. Create .env file inside project and paste `OPENAI_API_KEY="sk-..."` in your .env
 5. `streamlit run app/app.py`
 6. We will also perform fine-tuning of model today. Set `GEN_MODEL=ft:gpt-4o-mini-2024-07-18:personal:resume-cover-ft:C3HhrPnR` post finetuning job in .env
-6. Post finetuning is done, we will run `streamlit run scripts/ab_test_UI.py`
+6. Post finetuning is done, we will run `streamlit run scripts/ab_test_UI.py` : https://platform.openai.com/docs/guides/supervised-fine-tuning
    
 ## Features:
 1. Upload/Paste Job description and Resume Deatils
-2. Provide Few-shot Examples ( Optional )
+2. Provide Few-shot Examples ( Optional ): https://learnprompting.org/docs/basics/few_shot?srsltid=AfmBOopYaZb7zlugXPrUWgLXxuUTpOLuDn8zEJtmXHpYZqdu4o_OD_O9. https://platform.openai.com/docs/guides/prompt-engineering
 3. Generate tailored bullet pointers for resume
 4. Generate tailored cover letter
 5. Enhace the ouptput with few-shot examples
