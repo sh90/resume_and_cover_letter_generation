@@ -1,15 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-#Data preparation for fine-tuning
+## Data preparation for fine-tuning
 Steps: 
 1. python scripts/prep_dataset.py
 2. wc -l data/finetune.jsonl
