@@ -16,12 +16,35 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 2. `pip install -r requirements.txt`
 3. [Get OpenAI API key](https://platform.openai.com/)
 4. Create .env file inside project and paste `OPENAI_API_KEY="sk-..."` in your .env
-5. `streamlit run app.py`
-6. 
+5. `streamlit run app/app.py`
+6. We will also perform fine-tuning of model today. Set `GEN_MODEL=ft:gpt-4o-mini-2024-07-18:personal:resume-cover-ft:C3HhrPnR` post finetuning job in .env
+6. Post finetuning is done, we will run `streamlit run scripts/ab_test_UI.py`
+   
+## Features:
+1. Upload/Paste Job description and Resume Deatils
+2. Provide Few-shot Examples ( Optional )
+3. Generate tailored bullet pointers for resume
+4. Generate tailored cover letter
+5. Enhace the ouptput with few-shot examples
+6. Fine-tuning of GPT-4o-min
+7. Compare performance and store the results
+8. Key metrics Definition:
+   
+   a. keyword_coverage
+  Fraction of important JD terms that show up in the model’s output (0–1 scale). We extract likely keywords (TitleCase, long words, common skills) and check presence. Higher = better JD alignment.
+  
+   b. quantify_score
+  Measures how “quantified” the writing is by counting numbers, %, and impact verbs per line. Higher means more measurable outcomes (great for resume bullets).
+  
+   c. length_ok (cover letters only)
+  Boolean check that the letter lands in a sensible range (default 120–200 words). Helps keep letters concise yet substantial.
+  
+   d. composite_score
+  Single yardstick combining the above: for bullets → ~60% keyword coverage + 40% quantification; for cover letters → ~50% keyword + 40% quant + small bonus if length_ok. Capped at 1.0 for easy comparison.
+   
 ## Data preparation for fine-tuning
 Steps: 
 1. python scripts/prep_dataset.py
-2. wc -l data/finetune.jsonl
-3. head -n 2 data/finetune.jsonl
-
 This step will create finetune.jsonl
+2. python scripts/run_finetune.py
+This will execute a finetuning job and will create data/tuned_model.txt
