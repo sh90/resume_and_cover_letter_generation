@@ -1,4 +1,5 @@
-# Customer Service Agent
+# Personalized Resume & Cover Letter Generator
+
 ### IDE 
 Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or https://www.jetbrains.com/pycharm/download/?section=mac 
 
@@ -8,7 +9,6 @@ Download Pycharm: https://www.jetbrains.com/pycharm/download/?section=windows or
 
 2. Create Virtual env with python3.12
 <img width="637" height="320" alt="image" src="https://github.com/user-attachments/assets/a338e946-785d-4caa-9d2e-6beb5a93a6b9" />
-
 
 
 ### Setup
